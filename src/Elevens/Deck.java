@@ -20,8 +20,7 @@ public class Deck{
 
    //make a Deck constructor
     public Deck(){
-        
-    
+          
    	//refer cards to new ArrayList
         cards = new ArrayList<Card>();
    	//set top to the top of the deck 51
